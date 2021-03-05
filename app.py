@@ -2,14 +2,14 @@
 """
 Created on Sat Jun 13 02:20:31 2020
 
-@author: Krish Naik
+@author: Rudraksh
 """
 
 # -*- coding: utf-8 -*-
 """
 Created on Fri May 15 12:50:04 2020
 
-@author: krish.naik
+@author: Rudraksh
 """
 
 
@@ -67,7 +67,7 @@ def predict_note_authentication(variance,skewness,curtosis,entropy):
 
 
 def main():
-    st.title("Bank Authenticator")
+    st.title("Doc rater")
     html_temp = """
     <div style="background-color:tomato;padding:10px">
     <h2 style="color:white;text-align:center;">Streamlit doc rater ML App </h2>
